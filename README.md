@@ -161,7 +161,7 @@ The dashboard emphasizes clarity, cost impact, and a clear next action rather th
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/dashboardpreview.png)
+![Dashboard Preview](dashboardpreview.png)
 
 ---
 
